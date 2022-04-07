@@ -1,0 +1,143 @@
+.container-fluid{
+    background-color: black;
+}
+.header{
+    margin-bottom: 5px;
+}
+.navbar-brand img{
+    width: 150px;
+}
+
+.minhacorzinha{
+    background-color: #EAEAEA;
+}
+#navbarNav{
+    margin-left: 300px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.nav-item{
+    margin-right: 10px;
+}
+
+.destaques{
+    margin-top: 40px;
+
+}
+
+.card-body{
+    background-color: black;
+}
+.card-title{
+    color: #878787;
+}
+
+.card-text{
+    color: white;
+}
+
+.botao{
+    background-color: #EAEAEA;
+    color: black;
+}
+
+.cadastro{
+    background-color: #969696;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.formulario{
+    background-color: white;
+    
+}
+
+
+
+.tamanho-preencher{
+    width: 90%;
+    margin-top: 15px;
+}
+
+.tamanho-preencher-pass {
+    width: 90%;
+}
+.espaco-email{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.espaco{
+    padding-left: 30px;
+}
+
+.espaco-caixas{
+    padding-left: 70px;
+}
+
+.espaco-botton{
+    padding-left: 30px;
+    padding-bottom: 30px;
+
+}
+
+.footer{
+    height: 70px;
+    background-color: #EAEAEA;
+    display: flex;
+    justify-content: center;
+    color: black;
+    align-items: center;
+}
+
+
+/*Aqui começa a página dos lanches*/
+
+.texto-carrossel{
+    color:black;
+}
+
+
+
+.titulo-destaque{
+    margin-top: 20px;
+    color: white;
+    margin-left: 25%;  
+}
+.tabela{
+    display: flex;
+    justify-content: center;
+}
+
+.depoimento a{
+    color: black;
+    text-decoration: none;
+    
+    
+    
+}
+
+.depoimento a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.area-depoimento{
+    background-color: #969696;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.depoimento-e-foto{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.comida img{
+    border-style: solid;
+    border-radius: 5px;
+}
+
+
+
